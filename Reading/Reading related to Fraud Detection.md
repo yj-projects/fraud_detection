@@ -15,6 +15,7 @@
 6. Ziming Wang, Qianru Wu, Baolin Zheng, Junjie Wang, Kaiyu Huang, and Yanjie Shi. 2023. Sequence As Genes: An User Behavior Modeling Framework for Fraud Transaction Detection in E-commerce. In Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '23). Association for Computing Machinery, New York, NY, USA, 5194–5203. https://doi.org/10.1145/3580305.3599905
 
 **Others**
+
 7. Ma, Xiaoxiao, et al. "A comprehensive survey on graph anomaly detection with deep learning." IEEE Transactions on Knowledge and Data Engineering (2021).
 
 8. https://dl.acm.org/doi/proceedings/10.1145/3447548?tocHeading=heading8
